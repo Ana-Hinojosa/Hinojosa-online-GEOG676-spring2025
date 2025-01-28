@@ -10,3 +10,6 @@ GEOG 676 - GIS Programming
 |[Lab5](Lab5/README.md)|
 |[Lab6](Lab6/README.md)|
 |[Lab7](Lab7/README.md)|
+
+
+|[Lab8](Lab4/README.md)|
