@@ -8,7 +8,7 @@ class Shape():
 
 class Rectangle(Shape):
     def __init__(self, length, width):
-        self.length = length
+        self.length = length  # "self." is necessary to store the value within the object so it can be used in the for loop
         self.width = width
     # Area = length * width
     def getArea(self):
