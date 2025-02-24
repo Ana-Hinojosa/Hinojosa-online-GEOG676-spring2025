@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Sunday, February 23, 2025 11:18:14 PM</msg><msg code="1" type="100">Traceback (most recent call last):
+  File "&lt;string&gt;", line 102, in execute
+  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\conversion.py", line 3225, in FeatureClassToGeodatabase
+    raise e
+  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\conversion.py", line 3222, in FeatureClassToGeodatabase
+    retval = convertArcObjectToPythonObject(gp.FeatureClassToGeodatabase_conversion(*gp_fixargs((Input_Features, Output_Geodatabase), True)))
+  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\geoprocessing\_base.py", line 512, in &lt;lambda&gt;
+    return lambda *args: val(*gp_fixargs(args, True))
+arcgisscripting.ExecuteError: Failed to execute. Parameters are not valid.
+ERROR 000732: Output Geodatabase: Dataset C:\Hinojosa-online-GEOG676-spring2025\Lab5\Garage_Buildings_intersect does not exist or is not supported
+Failed to execute (FeatureClassToGeodatabase).
+
+</msg><msg code="-2147467259" type="100">Failed to execute (BuildingProximity).</msg><msg code="0" type="3">Failed at Sunday, February 23, 2025 11:18:14 PM (Elapsed Time: 0.54 seconds)</msg></messages>

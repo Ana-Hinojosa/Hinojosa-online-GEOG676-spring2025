@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Sunday, February 23, 2025 11:04:12 PM</msg><msg code="1" type="100">Traceback (most recent call last):
+  File "&lt;string&gt;", line 119, in execute
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+</msg><msg code="-2147467259" type="100">Failed to execute (BuildingProximity).</msg><msg code="0" type="3">Failed at Sunday, February 23, 2025 11:04:15 PM (Elapsed Time: 2.71 seconds)</msg></messages>

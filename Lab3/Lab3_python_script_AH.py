@@ -19,7 +19,7 @@ class Circle(Shape):
         self.radius = radius
     # Area = (pi)r^2
     def getArea(self):
-        return 3.14159 * (self.radius^2)
+        return 3.14159 * self.radius * self.radius
 
 class Triangle(Shape):
     def __init__(self, base, height):
